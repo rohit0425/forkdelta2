@@ -3,11 +3,11 @@
   "contractToken": "smart_contract/token.sol",
   "contractReserveToken": "smart_contract/reservetoken.sol",
   "contractEtherDeltaAddrs": [
-    { "addr": "0x9167fd1127554b547a784032036cad00eebdc282", "info": "Deployed 02/09/2017" },
+    { "addr": "0x1adf886bef65fd5efa47638bb526aff573a11e79", "info": "Deployed 05/31/2018" },
     { "addr": "0x0000000000000000000000000000000000000000", "info": "Zero contract" }
   ],
-  "ethTestnet": "rinkeby",
-  "ethChainId": 4,
+  "ethTestnet": "ropsten",
+  "ethChainId": 3,
   "ethProvider": "http://localhost:8545",
   "ethGasPrice": 20000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
