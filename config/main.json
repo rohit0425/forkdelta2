@@ -3,7 +3,7 @@
   "contractToken": "smart_contract/token.sol",
   "contractReserveToken": "smart_contract/reservetoken.sol",
   "contractEtherDeltaAddrs": [
-    { "addr": "0x373c55c277b866a69dc047cad488154ab9759466", "info": "Deployed 10/24/2016 -- OLD, DO NOT USE" } 
+    { "addr": "0x1adf886bef65fd5efa47638bb526aff573a11e79", "info": "Deployed 10/24/2016 -- OLD, DO NOT USE" } 
   ],
   "ethTestnet": false,
   "ethChainId": 1,
